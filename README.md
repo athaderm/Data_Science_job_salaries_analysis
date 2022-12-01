@@ -5,9 +5,9 @@
 - Jupiter Notebook was used for this project
 - The libraries used were pandas, numpy, seaborn and matplotlib
 - The project had 3 stages:
--- Data cleaning(it was cheacked for nulls,duplicates and outliers),
--- Data modification(some columns was renamed) and 
--- Data exploration(results and vizualizations)
+  - Data cleaning(it was cheacked for nulls,duplicates and outliers),
+  - Data modification(some columns was renamed) and 
+  - Data exploration(results and vizualizations)
 
 ###Objectives
 
